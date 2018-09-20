@@ -662,7 +662,7 @@ In this exercise, the attendee will provision an Azure API app template using th
 
     ![In the Publish web dialog box, Microsoft Azure App Service is selected, as is the radio button for Select Existing.](images/Hands-onlabstep-by-step-Moderncloudappsimages/media/image97.png "Publish web dialog box")
 
-4.  Select the Payment Gateway API app created earlier, click **OK** **\>** **Publish**.
+4.  Select the Payment Gateway API app created earlier, click **OK** **\>** **Publish**. (Note: The name of your Payment Gateway will likely be different than what you see in the screenshot below. i.e. PaymentGWXXXX)
 
     ![In the App Service section, the contososports folder is expanded, and PaymentsAPIO is selected. ](images/Hands-onlabstep-by-step-Moderncloudappsimages/media/image98.png "App Service section")
 
