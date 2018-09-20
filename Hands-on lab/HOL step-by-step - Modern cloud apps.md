@@ -700,7 +700,7 @@ click **App Services** and then clicking the Offer API app you just created.
 
     ![In the App Service blade, under API, CORS is selected.](images/Hands-onlabstep-by-step-Moderncloudappsimages/media/image102.png "App Service blade")
 
-2.  In the **ALLOWED ORIGINS** text box, specify the URL of the **Offers Web API App** (can be found in the **Overview** link), and click **Save**.
+2.  In the **ALLOWED ORIGINS** text box, specify the URL of the **E-Commerce Website** (can be found in the **Overview** link), and click **Save**.
 
 #### Subtask 3: Update the configuration in the starter project
 
